@@ -67,7 +67,7 @@ function welcome() {
 
 ## 🔍 更多信息
 
-如有问题请联系本工具维护者 **[GitHub @boboshixiong]**。
+如有问题请联系本工具维护者 **[GitHub @AIboboshixiong]**。
 
 ---
 
